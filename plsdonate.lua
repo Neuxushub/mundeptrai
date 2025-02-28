@@ -3,7 +3,7 @@ local player = game.Players.LocalPlayer
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local HttpService = game:GetService("HttpService")
 local TeleportService = game:GetService("TeleportService")
-local webhookURL = "YOUR_DISCORD_WEBHOOK_HERE" -- Thay bằng webhook Discord của bạn
+local webhookURL = "https://discord.com/api/webhooks/1344888992298176543/vYHvnszbbfUaHKj_PHh8ITDVrg6S34I6T6smOGDM6MwXkc-l4vnNwR3wLecnDGmJZ-8F" -- Thay bằng webhook Discord của bạn
 local placeID = 8737602449 -- ID của game Pls Donate
 
 local settings = {
