@@ -11,7 +11,7 @@ local settings = {
     autoServerHop = true,
     serverHopTime = 1800, -- Đổi server sau 30 phút
     chatInterval = 15, -- Thời gian giữa mỗi tin nhắn (giây)
-    minRobuxForRich = 10000 -- Chỉ vào server có người đã donate 10K+ Robux
+    minRobuxForRich = 5000 -- Chỉ vào server có người đã donate 10K+ Robux
 }
 
 -- 📌 Danh sách câu chat bằng tiếng Anh (100% tự nhiên)
